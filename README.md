@@ -1,5 +1,5 @@
-# Snappy - Chat Application 
-Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+# TALK-A-LIT - Chat Application 
+
 
 
 ![login page](./images/snappy_login.png)
@@ -15,8 +15,8 @@ Snappy is chat application build with the power of MERN Stack. You can find the 
 Both should be installed and make sure mongodb is running.
 
 ```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
-cd chat-app-react-nodejs
+git clone https://github.com/davidthakur/TALK-A-LIT
+cd TALK-A-LIT
 ```
 Now rename env files from .env.example to .env
 ```shell
